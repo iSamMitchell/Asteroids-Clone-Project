@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<drjava version="drjava-20140826-r5761">
+  <project autorefresh="false" main="SpaceShooter2015" root="" work="">
+    <createjar file=""/>
+    <source>
+      <file active="true" name="UserSpacecraft.java" package="" timestamp="14-Jan-2016 13:08:23">
+        <select from="4663" to="4663"/>
+        <scroll column="0" row="0"/>
+      </file>
+      <file name="StopWatch.java" package="" timestamp="14-Jan-2016 12:06:18">
+        <select from="4663" to="4663"/>
+        <scroll column="0" row="0"/>
+      </file>
+      <file name="AboutGameScreen.java" package="" timestamp="14-Jan-2016 12:06:18">
+        <select from="4663" to="4663"/>
+        <scroll column="0" row="0"/>
+      </file>
+      <file name="Asteroid.java" package="" timestamp="14-Jan-2016 12:12:10">
+        <select from="4663" to="4663"/>
+        <scroll column="0" row="0"/>
+      </file>
+      <file name="Button.java" package="" timestamp="14-Jan-2016 12:19:23">
+        <select from="4663" to="4663"/>
+        <scroll column="0" row="0"/>
+      </file>
+      <file name="Game.java" package="" timestamp="14-Jan-2016 12:30:44">
+        <select from="4663" to="4663"/>
+        <scroll column="0" row="0"/>
+      </file>
+      <file name="HighScoreList.java" package="" timestamp="14-Jan-2016 12:33:48">
+        <select from="4663" to="4663"/>
+        <scroll column="0" row="0"/>
+      </file>
+      <file name="InstructionScreen.java" package="" timestamp="14-Jan-2016 12:34:48">
+        <select from="4663" to="4663"/>
+        <scroll column="0" row="0"/>
+      </file>
+      <file name="NormalBullet.java" package="" timestamp="14-Jan-2016 12:36:42">
+        <select from="4663" to="4663"/>
+        <scroll column="0" row="0"/>
+      </file>
+      <file name="ScoreCounter.java" package="" timestamp="14-Jan-2016 12:38:13">
+        <select from="4663" to="4663"/>
+        <scroll column="0" row="0"/>
+      </file>
+      <file name="SpaceShooter2015.java" package="" timestamp="14-Jan-2016 12:50:57">
+        <select from="4663" to="4663"/>
+        <scroll column="0" row="0"/>
+      </file>
+    </source>
+    <included/>
+    <excluded/>
+    <collapsed/>
+    <classpath/>
+    <breakpoints/>
+    <watches/>
+    <bookmarks/>
+    <preferences/>
+  </project>
+</drjava>
